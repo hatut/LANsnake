@@ -1,2 +1,3 @@
 # LANsnake
+ WASD to move
  
